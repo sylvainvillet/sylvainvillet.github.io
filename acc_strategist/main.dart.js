@@ -25906,7 +25906,7 @@ V.by.prototype={}
 S.i.prototype={}
 F.vI.prototype={
 E:function(a){var t="ACC Strategist",s=null
-return new S.pS(new T.dW(C.P,s,s,new T.oa(0.5,new F.pn(t,s),s),s),t,X.a14(s,C.pf),!1,s)}}
+return new S.pS(new T.dW(C.P,s,s,new T.oa(0.6,new F.pn(t,s),s),s),t,X.a14(s,C.pf),!1,s)}}
 F.pn.prototype={
 al:function(){return new F.Di(new N.aS(null,u.v0),C.m)}}
 F.m6.prototype={
@@ -26114,7 +26114,7 @@ s.lp(r,q)}}},
 $S:0}
 Q.NF.prototype={
 $1:function(a){var t=null
-return new T.dW(C.P,t,t,new T.oa(0.5,new S.zF(this.a.e,t),t),t)}}
+return new T.dW(C.P,t,t,new T.oa(0.6,new S.zF(this.a.e,t),t),t)}}
 Q.NR.prototype={
 $1:function(a){var t=this.a
 t.a7(new Q.NQ(t,a))},
