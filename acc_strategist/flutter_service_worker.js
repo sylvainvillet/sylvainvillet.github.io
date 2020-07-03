@@ -8,12 +8,12 @@ const RESOURCES = {
 "assets/FontManifest.json": "580ff1a5d08679ded8fcf5c6848cece7",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/NOTICES": "4d34202b47afc295cf4be6c30d29ebb4",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0993a5a6d95a033d5739ae074d5bfb11",
-"/": "0993a5a6d95a033d5739ae074d5bfb11",
-"main.dart.js": "f16681a44e764a41e6cc89b67428153f",
+"favicon.png": "cae97e9f7a29f6bd63ea0ec595738a29",
+"icons/Icon-192.png": "4282d4159e63b51e24e4722b4e55f701",
+"icons/Icon-512.png": "e065d9be00c3f6c62d96a4001b33f4d1",
+"index.html": "62a630b61832da1d1021bbcc17ddfa2a",
+"/": "62a630b61832da1d1021bbcc17ddfa2a",
+"main.dart.js": "2e6839eec9e1f00f4e02878b413d1195",
 "manifest.json": "13632a7de27a46ef69fd5237d1f760c5"
 };
 
