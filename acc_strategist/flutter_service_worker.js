@@ -8,15 +8,15 @@ const RESOURCES = {
 "assets/assets/lollipop_man.png": "3ef5524ab2c590d3e1b3d80b09fd2d74",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "0cb26fa9888e4c39f160185cd499efe2",
+"assets/NOTICES": "417e684145023056939a71e910448d83",
 "favicon.png": "cae97e9f7a29f6bd63ea0ec595738a29",
 "icons/Icon-192.png": "4282d4159e63b51e24e4722b4e55f701",
 "icons/Icon-512.png": "e065d9be00c3f6c62d96a4001b33f4d1",
-"index.html": "0aaf1c3ea2e9633f81abe95c1bea96c4",
-"/": "0aaf1c3ea2e9633f81abe95c1bea96c4",
-"main.dart.js": "ae019fd3a0e61526686b6ac57bee44ec",
+"index.html": "1497f8319277995f0db4d88ddca039f4",
+"/": "1497f8319277995f0db4d88ddca039f4",
+"main.dart.js": "945215ffd044aa665dd461c0293de509",
 "manifest.json": "13632a7de27a46ef69fd5237d1f760c5",
-"version.json": "c74de3589af356dcb6dcda6d1b5701ba"
+"version.json": "922aab451574f0b250cbde05c0afac97"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -160,7 +160,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
