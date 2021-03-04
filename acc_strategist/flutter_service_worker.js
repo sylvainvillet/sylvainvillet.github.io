@@ -8,13 +8,13 @@ const RESOURCES = {
 "assets/assets/lollipop_man.png": "3ef5524ab2c590d3e1b3d80b09fd2d74",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "417e684145023056939a71e910448d83",
+"assets/NOTICES": "87c95d3561309e0d38d3bb43539b4e74",
 "favicon.png": "cae97e9f7a29f6bd63ea0ec595738a29",
 "icons/Icon-192.png": "4282d4159e63b51e24e4722b4e55f701",
 "icons/Icon-512.png": "e065d9be00c3f6c62d96a4001b33f4d1",
-"index.html": "52196102b06c425e775c5939744fccca",
-"/": "52196102b06c425e775c5939744fccca",
-"main.dart.js": "64eb5451a76a8a54d5457e95a9fe4b57",
+"index.html": "9042967dec1f4690748cf4e3147358d1",
+"/": "9042967dec1f4690748cf4e3147358d1",
+"main.dart.js": "6338be681699f5f28fe9f9d5522db44f",
 "manifest.json": "13632a7de27a46ef69fd5237d1f760c5",
 "version.json": "55a88292fe982d9c6be87c17fee684a0"
 };
