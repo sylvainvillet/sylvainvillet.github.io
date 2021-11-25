@@ -7,16 +7,16 @@ const RESOURCES = {
 "assets/assets/google_play_badge.png": "db9b21a1c41f3dcd9731e1e7acfdbb57",
 "assets/assets/lollipop_man.png": "3ef5524ab2c590d3e1b3d80b09fd2d74",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "87c95d3561309e0d38d3bb43539b4e74",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/NOTICES": "76a58d46ddd48d1fea69c022571758a8",
 "favicon.png": "cae97e9f7a29f6bd63ea0ec595738a29",
 "icons/Icon-192.png": "4282d4159e63b51e24e4722b4e55f701",
 "icons/Icon-512.png": "e065d9be00c3f6c62d96a4001b33f4d1",
-"index.html": "9042967dec1f4690748cf4e3147358d1",
-"/": "9042967dec1f4690748cf4e3147358d1",
-"main.dart.js": "6338be681699f5f28fe9f9d5522db44f",
+"index.html": "ca6b74ad49b3db17b92d949fcea7d286",
+"/": "ca6b74ad49b3db17b92d949fcea7d286",
+"main.dart.js": "743d1c7959c35978a085f299cd9a1218",
 "manifest.json": "13632a7de27a46ef69fd5237d1f760c5",
-"version.json": "55a88292fe982d9c6be87c17fee684a0"
+"version.json": "b6030dea6e47dc268033c1bab60ccd86"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -34,7 +34,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
