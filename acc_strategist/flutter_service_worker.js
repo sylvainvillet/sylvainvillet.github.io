@@ -7,16 +7,20 @@ const RESOURCES = {
 "assets/assets/google_play_badge.png": "db9b21a1c41f3dcd9731e1e7acfdbb57",
 "assets/assets/lollipop_man.png": "3ef5524ab2c590d3e1b3d80b09fd2d74",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "76a58d46ddd48d1fea69c022571758a8",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "ed96b9094f8a2426adeeb814c33c8f90",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "cae97e9f7a29f6bd63ea0ec595738a29",
 "icons/Icon-192.png": "4282d4159e63b51e24e4722b4e55f701",
 "icons/Icon-512.png": "e065d9be00c3f6c62d96a4001b33f4d1",
-"index.html": "ca6b74ad49b3db17b92d949fcea7d286",
-"/": "ca6b74ad49b3db17b92d949fcea7d286",
-"main.dart.js": "743d1c7959c35978a085f299cd9a1218",
+"index.html": "d35888efef920bda2385697c877ab372",
+"/": "d35888efef920bda2385697c877ab372",
+"main.dart.js": "b7abb5a954efddc887b4ac798cadaf83",
 "manifest.json": "13632a7de27a46ef69fd5237d1f760c5",
-"version.json": "b6030dea6e47dc268033c1bab60ccd86"
+"version.json": "abcbc39043e154f71fb6f611e90a3c5d"
 };
 
 // The application shell files that are downloaded before a service worker can
