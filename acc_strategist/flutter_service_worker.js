@@ -9,7 +9,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2068353e5dbf5fca7d4525bfb9a5db50
 "assets/assets/google_play_badge.png": "db9b21a1c41f3dcd9731e1e7acfdbb57",
 "assets/assets/lollipop_man.png": "3ef5524ab2c590d3e1b3d80b09fd2d74",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "2c5e8ca1c4738cf43c5fbdb8f9d4c7f2",
+"assets/fonts/MaterialIcons-Regular.otf": "4fd17815b38c686020128b4bc6e3aae8",
 "assets/NOTICES": "cf79dbe64a51bd3154e19b0e31e0979c",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -23,9 +23,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2068353e5dbf5fca7d4525bfb9a5db50
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "4282d4159e63b51e24e4722b4e55f701",
 "icons/Icon-512.png": "e065d9be00c3f6c62d96a4001b33f4d1",
-"index.html": "711e18402342251c71550bf396aaae9f",
-"/": "711e18402342251c71550bf396aaae9f",
-"main.dart.js": "0de71a45761acaad072859103fb7577b",
+"index.html": "eede4bfa455c482e1c94f91421e7795e",
+"/": "eede4bfa455c482e1c94f91421e7795e",
+"main.dart.js": "d190aa48e4d841e2424578b0864e15a1",
 "manifest.json": "13632a7de27a46ef69fd5237d1f760c5",
 "version.json": "d4f7905d455bcac32181186042949747"};
 // The application shell files that are downloaded before a service worker can
